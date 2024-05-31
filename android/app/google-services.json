@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613858571649",
+    "project_id": "app-mobile-46da6",
+    "storage_bucket": "app-mobile-46da6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613858571649:android:2defabaa0dd651f258e480",
+        "android_client_info": {
+          "package_name": "com.steels.appmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVq0NeXUSl37yLtOIOEeSGWb_4FkmRJbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

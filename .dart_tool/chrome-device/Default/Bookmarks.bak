@@ -1,0 +1,372 @@
+{
+   "checksum": "20b6aba191585bf6767bd2272f9407f0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13361484945049849",
+            "date_last_used": "0",
+            "guid": "84659912-ca0c-4e05-86c0-13d0fe94c920",
+            "id": "36",
+            "name": "Lenovo Support",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://support.lenovo.com/"
+         }, {
+            "date_added": "13361484945049748",
+            "date_last_used": "0",
+            "guid": "b67f2e18-b9b5-4f79-9e41-07f2fb724571",
+            "id": "35",
+            "name": "Lenovo",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.lenovo.com/"
+         }, {
+            "date_added": "13361484945049292",
+            "date_last_used": "0",
+            "guid": "6f26d69f-a63e-4782-9709-53ee927e6b23",
+            "id": "34",
+            "name": "McAfee",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html"
+         }, {
+            "date_added": "13343766723518591",
+            "date_last_used": "0",
+            "guid": "e09827ea-a505-4933-8189-221322529c9a",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Multi-Factor Authentication",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://eu-de.appid.cloud.ibm.com/oauth/v4/cf6eba1e-7186-4002-98dd-fd1745876ae5/authorization?response_type=code&redirect_uri=https://sso.yourlearning.ibm.com/auth/provider/appid/sso/callback&scope=openid&client_id=2e505ae9-0bf5-4138-ae04-ac90bae4788d&language=en"
+         }, {
+            "date_added": "13344368998297685",
+            "date_last_used": "13352263436285650",
+            "guid": "381911c5-b2b4-4782-9641-ebd212e7c6a6",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Learn TypeScript | Codecademy",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://www.codecademy.com/learn/learn-typescript"
+         }, {
+            "date_added": "13344369015722124",
+            "date_last_used": "0",
+            "guid": "31a2b5c5-2b53-4f2a-ab92-a9acff7464df",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Python para principiantes | Microsoft Learn",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://learn.microsoft.com/es-es/shows/intro-to-python-development/"
+         }, {
+            "date_added": "13351994459305687",
+            "date_last_used": "0",
+            "guid": "92fd3969-4f86-4863-b535-e26668d9a4a3",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Área personal",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://imaster.academy/my/"
+         }, {
+            "date_added": "13352263345787419",
+            "date_last_used": "0",
+            "guid": "24969786-2f4b-4bf3-86ae-302fb32871b9",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "FlutterFlow - Build beautiful, modern apps incredibly fast",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://flutterflow.io/"
+         }, {
+            "date_added": "13352265232062236",
+            "date_last_used": "0",
+            "guid": "14fd6293-9ca8-4b34-9004-d7d905e7b322",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Price calculator - FlutterFlow",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://app.flutterflow.io/project/price-calculator-31807e?tab=uiBuilder&page=HomePage"
+         }, {
+            "date_added": "13352862924025409",
+            "date_last_used": "0",
+            "guid": "2e1d18f2-d005-4a94-b2f6-7cb62f962e58",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "IMaster: Iniciar sesión en el sitio",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://imaster.academy/login/index.php"
+         }, {
+            "date_added": "13355331419725748",
+            "date_last_used": "0",
+            "guid": "736c29ab-878d-4e23-be46-5a0e2076fe9d",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "El misterio del asesinato de SQL",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://mystery.knightlab.com/"
+         }, {
+            "date_added": "13357917294102077",
+            "date_last_used": "0",
+            "guid": "379c8593-00b4-493f-97fa-92451342de4e",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gamma presentaciones",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://gamma.app/create"
+         }, {
+            "date_added": "13357917490566403",
+            "date_last_used": "0",
+            "guid": "7b3d9207-6b55-460a-bb3b-36566ca69ce5",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Perplexity",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://www.perplexity.ai/"
+         }, {
+            "date_added": "13357917645983738",
+            "date_last_used": "0",
+            "guid": "9f513a87-947b-4b3c-bfea-08136a3d5e97",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Resume Builder · Resume.io",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://resume.io/app/create-resume/templates"
+         }, {
+            "date_added": "13357918183817909",
+            "date_last_used": "0",
+            "guid": "fce1572d-8866-44a0-a707-e880c4918ad3",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "rose ia",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://www.rose.ai/"
+         }, {
+            "date_added": "13357918206767602",
+            "date_last_used": "0",
+            "guid": "59d25c23-324f-40d1-8e1f-c69590756d1e",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Resume Builder · Resume.io",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://resume.io/app/resumes/41314255/edit"
+         }, {
+            "date_added": "13357918251349469",
+            "date_last_used": "0",
+            "guid": "23463e4b-99c6-4115-98a7-805b19bb0dff",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Tripnotes.ai - Fácil con IA",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://easywithai.com/ai-travel-planners/tripnotes-ai/"
+         }, {
+            "date_added": "13357918607459740",
+            "date_last_used": "0",
+            "guid": "21bea58f-0da2-440c-9eda-5c167b9f5985",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Discord | #bienvenida-y-reglas | El servidor de diana rosero",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://discord.com/channels/1230502163642585128/1230502163642585130"
+         }, {
+            "date_added": "13357918754759777",
+            "date_last_used": "0",
+            "guid": "af716b29-8381-432b-9ef1-35efe344f185",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "• Discord | #📢-announcement | Noisee",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://discord.com/channels/1198986785406062623/1198986785406062625"
+         }, {
+            "date_added": "13357919000819206",
+            "date_last_used": "0",
+            "guid": "4e1303d7-95e6-4a1a-ab07-be9333c252bc",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Ofertas de trabajo para estudiantes en Salamanca | Portal de Empleo | StudentJob ES",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://www.studentjob.es/trabajo-estudiantes/salamanca"
+         }, {
+            "date_added": "13357919183496552",
+            "date_last_used": "0",
+            "guid": "3b2f65c2-4850-4232-a8ed-1bd7de642116",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Brainly.lat - Aprendizaje efectivo en grupo",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://brainly.lat/"
+         }, {
+            "date_added": "13357919353653123",
+            "date_last_used": "0",
+            "guid": "e21f898c-9514-448a-8f99-ed553ef49613",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "EssayTyper",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "http://www.essaytyper.com/"
+         }, {
+            "date_added": "13358710394476033",
+            "date_last_used": "0",
+            "guid": "a38030c7-3205-43f8-85dc-982fdbffad60",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "DartPad",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://dartpad.dev/"
+         }, {
+            "date_added": "13360471412411842",
+            "date_last_used": "0",
+            "guid": "f8d91596-e55b-4b35-9e78-7fce23b4d4ae",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Account - EmailJS",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://dashboard.emailjs.com/admin/account/general"
+         }, {
+            "date_added": "13360911824522270",
+            "date_last_used": "0",
+            "guid": "f2e7d277-edd1-4d6c-a0d8-819d8736614b",
+            "id": "9",
+            "name": "Lenovo Support",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://support.lenovo.com/"
+         }, {
+            "date_added": "13360911824522026",
+            "date_last_used": "0",
+            "guid": "733d647f-bcd3-4adf-b51d-774921bdf076",
+            "id": "8",
+            "name": "Lenovo",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://www.lenovo.com/"
+         }, {
+            "date_added": "13360911824520903",
+            "date_last_used": "0",
+            "guid": "ca9c98e8-a06b-412c-a8a7-b9a4f23f701a",
+            "id": "7",
+            "name": "McAfee",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html"
+         } ],
+         "date_added": "13360911823978770",
+         "date_last_used": "0",
+         "date_modified": "13361484945049849",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13360911823978776",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13360911823978780",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos móviles",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
